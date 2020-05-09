@@ -1,5 +1,11 @@
 {
-  "projects": {
-    "default": "my-diary-c141a"
+  "targets": {
+    "my-diary-c141a": {
+      "hosting": {
+        "my-diary": [
+          "my-diary-c141a"
+        ]
+      }
+    }
   }
 }
