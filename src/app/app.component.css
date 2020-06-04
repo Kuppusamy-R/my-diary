@@ -85,15 +85,23 @@
     line-height: 31px;
     display: flex;
     align-items: center;
-    
 }
+
+.TS03{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    min-width: 250px;
+}
+
 
 .C00{
     color: black;
 }
 
 input{
-    padding: 5px;
+    padding: 10px;
 }
 
 button{
