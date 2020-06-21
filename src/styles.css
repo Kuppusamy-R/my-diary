@@ -7,3 +7,83 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+.dark-text{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.B{
+    font-weight: bold;
+}
+
+.S01{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.S02{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.S03{
+    margin-right: 20px;
+}
+.S04{
+    margin-left: 20px;
+}
+.TextStyle01{
+    font-family: Saira;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFEDED;
+}
+
+.TS01{
+    font-family: Saira;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFEDED;
+}
+
+.TS02{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+}
+
+.TS03{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    min-width: 250px;
+}
+
+.Link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.C00{
+    color: black;
+}
